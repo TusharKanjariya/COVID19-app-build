@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: covid19-Setup-0.1.0.exe
+    sha512: 1t7fNRctafRijpcy22ICGEmagpmzih9FqWDMAQgom9x/s7htWzVMjOgP2nFMoOxT8gcWrPIPIxP5xVx9Lh79lA==
+    size: 41158078
+path: covid19-Setup-0.1.0.exe
+sha512: 1t7fNRctafRijpcy22ICGEmagpmzih9FqWDMAQgom9x/s7htWzVMjOgP2nFMoOxT8gcWrPIPIxP5xVx9Lh79lA==
+releaseDate: '2020-04-08T07:24:15.676Z'
